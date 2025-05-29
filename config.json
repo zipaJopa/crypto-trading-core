@@ -1,0 +1,6 @@
+{
+  "trading_enabled": true,
+  "max_risk_per_trade": 0.1,
+  "target_daily_return": 0.02,
+  "available_capital": 0
+}
